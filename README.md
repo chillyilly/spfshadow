@@ -11,12 +11,12 @@ A comprehensive tool for discovering subdomains using OSINT and performing SPF s
 
 ## Install
 ```bash
-git clone https://github.com/yourusername/spfshadow-advanced.git
-cd spfshadow-advanced
+git clone https://github.com/chillyilly/spfshadow.git
+cd spfshadow
 pip install .
 ```
 
 ## Run
 ```bash
-spfshadow-advanced
+spfshadow
 ```
