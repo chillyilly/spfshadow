@@ -18,5 +18,5 @@ pip install .
 
 ## Run
 ```bash
-spfshadow
+python3 spfshadow.py
 ```
