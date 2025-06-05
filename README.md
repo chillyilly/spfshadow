@@ -13,7 +13,7 @@ A comprehensive tool for discovering subdomains using OSINT and performing SPF s
 ```bash
 git clone https://github.com/chillyilly/spfshadow.git
 cd spfshadow
-pip install .
+pip install bs4 requests dnspython
 ```
 
 ## Run
