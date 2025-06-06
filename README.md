@@ -1,4 +1,4 @@
-# SPFShadow 
+# SPFShadow v1.1
 
 A comprehensive tool for discovering subdomains using OSINT and performing SPF shadow record analysis.
 
@@ -9,6 +9,14 @@ A comprehensive tool for discovering subdomains using OSINT and performing SPF s
 - Exports data to CSV
 - Interactive CLI menu
 
+## Updated Features for v1.1
+- Performs DMARC Scanning
+- Performs DKIM Scanning
+- Performs SPF Vulnerability Scans
+
+## Additional Information
+- Virustotal and SecurityTrails API keys are encourged, but not required.
+  
 ## Install
 ```bash
 git clone https://github.com/chillyilly/spfshadow.git
