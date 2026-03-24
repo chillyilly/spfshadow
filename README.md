@@ -150,7 +150,7 @@ Scores mapped to: Info, Low, Medium, High, Critical.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/spfshadow.git
+git clone https://github.com/chillyilly/spfshadow.git
 cd spfshadow
 
 # Install required dependencies
